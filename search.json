@@ -7,10 +7,24 @@
     "text": "About this site"
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Anthony Mora",
+    "section": "",
+    "text": "Posts\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Amora-website",
+    "title": "Anthony Mora",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "esto arriba"
+  },
+  {
+    "objectID": "index.html#intereses",
+    "href": "index.html#intereses",
+    "title": "Anthony Mora",
+    "section": "Intereses",
+    "text": "Intereses\nAl momento me encuentro leyendo:\n\nIntroduction to algorithms 4th Edtition de Cormen"
   }
 ]
