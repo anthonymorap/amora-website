@@ -1,7 +1,27 @@
 ---
-title: "Amora-website"
+title: "Anthony Mora"
+about:
+ id: hero-heading
+ template: trestles
+ links:
+  - icon: github
+    text: 'Github'
+    href: 'https://github.com/anthonymorap/amora-website'
+  - icon: linkedin
+    text: 'Linkedin'
+    href: 'https://www.linkedin.com/in/anthony-morap/'
+comments: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+esto arriba
+
+:::{#hero-heading}
+# Bio
+
+## Intereses
+
+Al momento me encuentro leyendo:
+
+- Introduction to algorithms 4th Edtition de Cormen
+:::
